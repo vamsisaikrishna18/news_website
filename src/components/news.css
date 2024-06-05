@@ -1,0 +1,21 @@
+.news-container{
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 600px;
+    background-color: aliceblue;
+    border-radius: 10px;
+  }
+  nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+
+    font-size: 24px;
+  }
+  .names{
+    text-decoration: none;
+    color: black;
+  }
